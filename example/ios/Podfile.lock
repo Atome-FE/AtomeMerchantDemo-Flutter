@@ -1,0 +1,29 @@
+PODS:
+  - atome_sdk_flutter (0.0.1):
+    - AtomeSDK (~> 0.1.0)
+    - Flutter
+  - AtomeSDK (0.1.0)
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - atome_sdk_flutter (from `.symlinks/plugins/atome_sdk_flutter/ios`)
+  - Flutter (from `Flutter`)
+
+SPEC REPOS:
+  trunk:
+    - AtomeSDK
+
+EXTERNAL SOURCES:
+  atome_sdk_flutter:
+    :path: ".symlinks/plugins/atome_sdk_flutter/ios"
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  atome_sdk_flutter: 06e1352cbb1c1298f15d4f7650a78191d31a39d4
+  AtomeSDK: ecd180afe6f01d24b7baf827e1420e6d4edf2142
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+
+PODFILE CHECKSUM: 3f2eb1feaa8752566eee3b1e2a76366368f87317
+
+COCOAPODS: 1.12.1
