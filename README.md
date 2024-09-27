@@ -3,7 +3,7 @@
 ## Getting Started
 
 ```sh
-atome_flutter: ^0.0.1
+atome_sdk_flutter: ^0.0.2
 ```
 
 ## Usage

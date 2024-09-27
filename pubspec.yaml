@@ -1,6 +1,6 @@
 name: atome_sdk_flutter
-description: A new Flutter project.
-version: 0.0.1
+description: atome_sdk_flutter
+version: 0.0.2
 homepage: https://github.com/Atome-FE/AtomeMerchantDemo-Flutter
 
 environment:
